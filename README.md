@@ -1,7 +1,7 @@
 Death Note
 =========
 
-Kira's PHP notes ;-)
+Kira's notes ;-)
 
 Symfony
 -------
