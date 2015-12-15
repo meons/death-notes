@@ -1,3 +1,5 @@
+# Bower
+
 [Symfony official doc](http://symfony.com/doc/current/cookbook/frontend/bower.html)
 
 [Bower official doc](http://bower.io/)
