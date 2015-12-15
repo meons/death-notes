@@ -3,8 +3,8 @@ Death Note
 
 Kira's notes ;-)
 
-[Bower](bower.md)
-[Guzzle](guzzle.md)
+* [Bower](bower.md)
+* [Guzzle](guzzle.md)
 
 Symfony
 -------
