@@ -2,17 +2,10 @@
 
 Kira's notes ;-)
 
+* [Symfony](symfony.md)
 * [Bower](bower.md)
+* [Composer](composer.md)
 * [Guzzle](guzzle.md)
-
-Symfony
--------
-### Controller actions
-##### indexAction(): show entities
-##### showAction(): show entity
-##### newAction(): create entity
-##### editAction(): edit entity
-##### deleteAction(): edit entity
 
 ##### deleteAction example
 ```php
