@@ -9,3 +9,4 @@
 3. Create .bowerrc file in root of your project with this content `{ "directory": "web/assets/vendor/" }`
 4. Run `bower init` command to create bower.json file
 5. Run `bower install --save boostrap` command to install boostrap and save it to the bower.json file
+6. Don't add web/assets/vendor to your .gitignore file ! Assets need to be commited because Bower currently doesn't have a "lock" feature.
