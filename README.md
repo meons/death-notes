@@ -1,5 +1,4 @@
-Death Note
-=========
+# Death Note
 
 Kira's notes ;-)
 
