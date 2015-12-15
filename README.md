@@ -3,6 +3,8 @@ Death Note
 
 Kira's notes ;-)
 
+[Bower](bower.md)
+
 Symfony
 -------
 ### Controller actions
