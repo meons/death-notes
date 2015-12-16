@@ -1,5 +1,7 @@
 #Symfony
 
+* [Deploy symfony app](deploy-symfony-app.md)
+
 ### Controller actions
 * indexAction(): show entities
 * showAction(): show entity
