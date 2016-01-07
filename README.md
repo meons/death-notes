@@ -1,6 +1,6 @@
 # Death Note
 
-* [PHP](php.md)
+* [PHP Exceptions](PHP/exceptions.md)
 * [Symfony](Symfony/symfony.md)
 * [Bower](bower.md)
 * [Composer](composer.md)
