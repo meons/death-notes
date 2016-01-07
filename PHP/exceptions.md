@@ -1,3 +1,9 @@
+# PHP Exceptions
+
+http://www.w3schools.com/php/php_exception.asp
+
+Example with re-throw
+
 ```php
 try {
     try {
