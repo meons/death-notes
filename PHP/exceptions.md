@@ -2,6 +2,10 @@
 
 http://www.w3schools.com/php/php_exception.asp
 
+[Good explanation](http://stackoverflow.com/questions/5551668/what-are-the-best-practices-for-catching-and-re-throwing-exceptions)
+
+[Symfony LDAP example](https://github.com/symfony/symfony/blob/582f4753a343f230fbe18b4e9a0747d48351ddfb/src/Symfony/Component/Security/Core/User/LdapUserProvider.php#L64)
+
 Example with re-throw
 
 ```php
