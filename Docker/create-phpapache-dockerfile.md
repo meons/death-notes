@@ -1,3 +1,13 @@
+Delete all docker containers (even running ones)
+```bash
+docker rm -f $(docker ps -a -q)
+```
+
+Delete all docker images
+```bash
+docker rmi $(docker images -q)
+```
+
 Dockerfile content
 ```bash
 # Based on official php apache image
