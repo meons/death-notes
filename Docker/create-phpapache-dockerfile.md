@@ -8,7 +8,7 @@ Delete all docker images
 docker rmi $(docker images -q)
 ```
 
-Dockerfile content
+Example of a `Dockerfile` to build a customized apache php image
 ```bash
 # Based on official php apache image
 FROM php:7.2.6-apache
