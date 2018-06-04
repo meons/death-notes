@@ -1,4 +1,4 @@
-```
+```bash
 # Based on official php apache image
 FROM php:7.2.6-apache
 LABEL maintainer "simeon.bobylev@gmail.com"
